@@ -1,0 +1,61 @@
+.body {
+	background-image: url("../images/background.jpg");
+}
+
+.header {
+	font-size: 60px;
+	background-color: crimson;
+	color: #FFFFF0;
+	text-align: center;
+	width: 50%;
+	padding: 20px;
+	margin: 10px;
+}
+
+.instructions {
+	font-size: 30px;
+	background-color: #FFFFF0;
+	width: 75%;
+	padding: 20px;
+	margin: 10px;
+}
+
+.targetScore {
+	font-size: 45px;
+	background-color: crimson;
+	color: #FFFFF0;
+	text-align: center;
+	width: 25%;
+	padding: 20px;
+	margin: 10px;
+}
+
+.winsLosses {
+	font-size: 30px;
+	background-color: #FFFFF0;
+	width: 25%;
+	padding: 20px;
+	margin: 10px;
+}
+
+.crystals {
+	margin: 10px;
+}
+
+.scoreHeader {
+	font-size: 30px;
+	background-color: crimson;
+	color: #FFFFF0;
+	width: 25%;
+	padding: 20px;
+	margin: 10px;
+}
+
+.score {
+	font-size: 45px;
+	background-color: #FFFFF0;
+	width: 25%;
+	text-align: center;
+	padding: 20px;
+	margin: 10px;
+}
